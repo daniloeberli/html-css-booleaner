@@ -15,3 +15,35 @@ thead{
 th{
     color: white;
 }
+
+.odd{
+    background-color: #b1e5f2;
+}
+
+footer{
+    color: #7e7e7e
+}
+
+span{
+    color: #29ace6;
+}
+
+#container1{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+}
+
+.lorem{
+    color: white;
+    padding: 15px;
+    font-size: larger;
+}
+
+#container2{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+}
