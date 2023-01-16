@@ -2,6 +2,7 @@ header{
     background-image: url("../img/pattern.png");
     height: 100px;
     background-color: #4ea0ff;
+    
 }
 
 body{
@@ -51,5 +52,5 @@ span{
 .logo{
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;
-    height: 50px;
+    height: 40px;    
 }
